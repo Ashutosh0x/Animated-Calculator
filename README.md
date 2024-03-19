@@ -1,6 +1,7 @@
 # Animated Glassmorphic Calculator
 
 This is a stylish and interactive calculator designed with a glassmorphic aesthetic. It features a sleek interface with a glass-like appearance, providing an engaging user experience. The calculator allows users to perform basic arithmetic operations and includes additional features like glare effect and gyroscope functionality for an enhanced experience.
+
 ![image](https://github.com/Ashutosh0x/Animated-Calculator/assets/161562995/6337d411-cea0-42a6-a911-e82c1260cfc3)
 
 ## Features
